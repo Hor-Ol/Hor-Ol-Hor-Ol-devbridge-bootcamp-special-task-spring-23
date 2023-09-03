@@ -1,0 +1,21 @@
+id;first_name;last_name;email;department;area
+1;John;Snow;john_snow@westeros.com;Stark;The North
+2;Arya;Stark;arya_stark@westeros.com;Stark;The North
+3;Sansa;Stark;sansa_stark@westeros.com;Stark;The North
+4;Eddard;Stark;eddard_stark@westeros.com;Stark;The North
+5;Jaime;Lannister;jaime_lannister@westeros.com;Lannister;The Westerlands
+6;Tyrion;Lannister;tyrion_lannister@westeros.com;Lannister;The Westerlands
+7;Cersei;Lannister;cersei_lannister@westeros.com;Lannister;The Westerlands
+8;Daenerys;Targaryen;daenerys_targaryen@westeros.com;Targaryen;Essos (originally)
+9;Veserys;Targaryen;veserys_targaryen@westeros.com;Targaryen;Essos
+10;Stannis;Baratheon;stannis_baratheon@westeros.com;Baratheon;Dragonstone
+11;Robert;Baratheon;robert_baratheon@westeros.com;Baratheon;The Stormlands
+12;Renly;Baratheon;renly_baratheon@westeros.com;Baratheon;The Stormlands
+13;Theon;Greyjoy;theon_greyjoy@westeros.com;Greyjoy;The Iron Islands
+14;Yara;Greyjoy;yara_greyjoy@westeros.com;Greyjoy;The Iron Islands
+15;Euron;Greyjoy;euron_greyjoy@westeros.com;Greyjoy;The Iron Islands
+16;Margery;Tyrell;margery_tyrell@westeros.com;Tyrell;The Reach
+17;Loras;Tyrell;loras_tyrell@westeros.com;Tyrell;The Reach
+18;Olenna;Tyrell;olenna_tyrell@westeros.com;Tyrell;The Reach
+19;Oberyn;Martell;oberyn_martell@westeros.com;Martell;Dorne
+20;Doran;Martell;doran_martell@westeros.com;Martell;Dorne
