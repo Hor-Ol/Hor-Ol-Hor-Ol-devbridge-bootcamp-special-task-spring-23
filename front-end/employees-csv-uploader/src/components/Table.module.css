@@ -1,0 +1,60 @@
+.message {
+  font-size: 2rem;
+}
+
+table {
+  font-size: 1.4rem;
+  margin-top: 3.2rem;
+  min-width: 50%;
+  border-collapse: collapse;
+  background-color: #fff;
+  text-align: center;
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+thead {
+  height: 4.8rem;
+  color: #fff;
+  background-color: #2779a7;
+  border-radius: 20px;
+  font-weight: bold;
+}
+
+thead tr:hover {
+  color: #fff;
+}
+
+tr:hover {
+  font-weight: bold;
+  color: #1b5575;
+}
+
+tr:nth-child(even) {
+  background-color: #e9f2f6;
+}
+
+td {
+  padding: 1rem;
+}
+
+td:nth-child(1) {
+  width: 20rem;
+}
+
+td:nth-child(2) {
+  width: 20rem;
+}
+
+td:nth-child(3) {
+  width: 40rem;
+}
+
+td:nth-child(4) {
+  width: 20rem;
+}
+
+td:nth-child(5) {
+  width: 20rem;
+}
